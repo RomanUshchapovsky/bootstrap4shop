@@ -1,0 +1,3 @@
+[user]
+	name = RomanUshchapovsky
+	email = romus30@online.ua
